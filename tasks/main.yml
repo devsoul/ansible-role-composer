@@ -1,8 +1,8 @@
 ---
 - name: Install Composer.
-  become: yes
+  become: true
   get_url:
     url: https://getcomposer.org/composer.phar
     dest: /usr/local/bin/composer
     mode: 0755
-    force: yes
+    force: true
