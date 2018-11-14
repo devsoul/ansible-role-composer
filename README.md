@@ -1,5 +1,6 @@
 Composer Ansible role
 =========
+[![Build Status](https://travis-ci.com/devsoul/ansible-role-composer.svg?branch=master)](https://travis-ci.com/devsoul/ansible-role-composer)
 
 If you use Composer dependency manager.
 
